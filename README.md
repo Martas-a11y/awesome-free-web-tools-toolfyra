@@ -12,6 +12,10 @@ All tools process your data **directly inside your browser**. Experience a beaut
 
 ---
 
+## Even more tools — Toolfyra
+
+A bigger, separate suite: **[Toolfyra](https://toolfyra.com)** — 850+ free browser tools (privacy-first, no signup): EMI/mortgage calculators, PDF merge & split, image compression, JSON/regex/JWT utilities, and more.
+
 ## 📚 Tool Categories
 
 ### 📄 1. PDF & Document Utilities
